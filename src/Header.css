@@ -14,6 +14,7 @@
     width: 100px;
     height: 32px;
     margin-left: -10px;
+   
   }
   .headerlogo2 {
     border: 1px solid rgba(242, 179, 4, 1);
@@ -26,7 +27,7 @@
   .intrologo {
     /* border:solid 2px red; */
     height: 320px;
-    width: 475px;
+    width: 400px;
   }
   .introtext {
     text-align: center;
