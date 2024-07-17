@@ -1,4 +1,4 @@
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 480px) {
   .header {
     /* border:solid 2px red; */
     width: 320px;
@@ -65,7 +65,7 @@
   }
 }
 
-@media only screen and (min-width: 361px) {
+@media only screen and (min-width: 481px) {
   .intromain {
     display: flex;
     flex-flow: row-reverse;

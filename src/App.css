@@ -1,4 +1,4 @@
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 480px) {
   .databox {
     height: 341px;
     width: 320px;
@@ -79,7 +79,7 @@
   }
 }
 
-@media only screen and (min-width: 361px) {
+@media only screen and (min-width: 481px) {
   .dlogo {
     text-align: center;
   }
