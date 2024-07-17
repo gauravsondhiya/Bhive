@@ -1,7 +1,7 @@
 @media only screen and (max-width: 480px) {
   .header {
     /* border:solid 2px red; */
-    width: 320px;
+    width: 450px;
     height: 70px;
     border: 0.93px solid rgb(238, 231, 231, 0.8);
     display: flex;
@@ -26,7 +26,7 @@
   .intrologo {
     /* border:solid 2px red; */
     height: 320px;
-    width: 320px;
+    width: 475px;
   }
   .introtext {
     text-align: center;

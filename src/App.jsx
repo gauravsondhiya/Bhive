@@ -86,12 +86,12 @@ const App = () => {
           <h3>Download our app now </h3>
         </div>
        <div className="bgfooter">
-        <div className="footeradv">
-          <img src={footer} alt="logo" />
+        <div >
+          <img className="footeradv" src={footer} alt="logo" />
         </div>
 
         <div className="bgtextlogo">
-         <div>
+         <div className="bgtext">
           <p>Boost your productivity with the BHIVE Workspace app. Elevate your workspace, collaborate efficiently, and unlock exclusive perks.</p>
          </div>
         <div className="storeapps">

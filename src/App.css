@@ -1,9 +1,20 @@
 @media only screen and (max-width: 480px) {
+
+  .headingspaces{
+   
+      font-size: 24px;
+      font-weight: 700;
+    
+  }
   .databox {
     height: 341px;
-    width: 320px;
+    width: 400px;
     border: 0.93px solid rgb(238, 231, 231, 0.8);
-    margin: 10px;
+    margin: auto;
+    gap: 10px;
+  }
+  .databox{
+   margin-top: 15px;
   }
   .datalogo {
     height: 175px;
@@ -65,7 +76,7 @@
 
   .copyright {
     height: 41px;
-    width: 330px;
+    width: 450px;
     background: rgba(34, 46, 52, 1);
     color: white;
     text-align: center;
@@ -76,6 +87,23 @@
   .storeapps {
     display: flex;
     justify-content: space-around;
+  }
+  .bgtext{
+    visibility: hidden;
+  }
+  .bgfooter{
+    margin: auto;
+    border: solid 1px red;
+  }
+  .bgtextlogo{
+  line-height: 0px;
+   
+  }
+  .storeapps{
+    margin: auto;
+  }
+  .footeradv{
+    margin-left: 30px;
   }
 }
 
